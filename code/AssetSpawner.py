@@ -2,7 +2,7 @@ bl_info = {
     "name": "Asset Spawner - Import GTAV Assets",
     "author": "Boold",
     "version": (1, 0),
-    "blender": (5, 0, 1),
+    "blender": (3, 0, 0),
     "location": "View3D > Sidebar > Asset Spawner",
     "description": "Import GTAV Assets and apply Textures using Game files",
     "category": "Import-Export",
